@@ -14,6 +14,5 @@ Example Images
 ![alt text](example_images/2024-09-22_12.00.11.png)
 ![alt text](example_images/2024-09-22_21.59.49.png)
 ![alt text](example_images/2024-09-22_22.00.12.png)
-![alt text](example_images/2024-09-22_22.01.09.png)
 
 Credits to [5weetdev](https://www.curseforge.com/minecraft/shaders/ascii-like-shader-for-minecraft) for figuring out a simple way to render ASCIIs, but I do prefer my version of it, the color version is a bit neater.
